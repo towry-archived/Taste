@@ -1,0 +1,19 @@
+{
+    "name": "towry/taste",
+    "description": "/dev/null",
+    "keywords":["rest", "router"],
+    "homepage": "http://github.com/towry/Taste",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "towry",
+            "email": "tovvry@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {"Taste": "."}
+    }
+}
